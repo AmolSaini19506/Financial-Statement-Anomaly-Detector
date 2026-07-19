@@ -1,0 +1,96 @@
+ticker,Company_Name,SIC,Industry,Industry_Source,Data_Quality_Score,Data_Quality_Status,Available_SEC_Facts,Possible_SEC_Facts
+AAPL,Apple Inc.,3571,Electronic Computers,SEC SIC,100.0,Complete,84,84
+ABNB,"Airbnb, Inc.",7340,Services-To Dwellings & Other Buildings,SEC SIC,85.7,Partial,72,84
+ADBE,ADOBE INC.,7372,Services-Prepackaged Software,SEC SIC,100.0,Complete,84,84
+ADI,ANALOG DEVICES INC,3674,Semiconductors & Related Devices,SEC SIC,96.4,Complete,81,84
+ADP,AUTOMATIC DATA PROCESSING INC,7374,Services-Computer Processing & Data Preparation,SEC SIC,100.0,Complete,84,84
+ADSK,"Autodesk, Inc.",7372,Services-Prepackaged Software,SEC SIC,100.0,Complete,96,96
+AEP,AMERICAN ELECTRIC POWER CO INC,4911,Electric Services,SEC SIC,83.3,Partial,70,84
+ALAB,"Astera Labs, Inc.",3674,Semiconductors & Related Devices,SEC SIC,87.5,Partial,42,48
+ALNY,"ALNYLAM PHARMACEUTICALS, INC.",2834,Pharmaceutical Preparations,SEC SIC,100.0,Complete,84,84
+AMAT,APPLIED MATERIALS INC /DE,3674,Semiconductors & Related Devices,SEC SIC,100.0,Complete,84,84
+AMD,ADVANCED MICRO DEVICES INC,3674,Semiconductors & Related Devices,SEC SIC,100.0,Complete,84,84
+AMGN,AMGEN INC,2836,"Biological Products, (No Diagnostic Substances)",SEC SIC,100.0,Complete,84,84
+AMZN,AMAZON COM INC,5961,Retail-Catalog & Mail-Order Houses,SEC SIC,95.2,Complete,80,84
+APP,AppLovin Corp,7370,"Services-Computer Programming, Data Processing, Etc.",SEC SIC,85.7,Partial,72,84
+AVGO,Broadcom Inc.,3674,Semiconductors & Related Devices,SEC SIC,100.0,Complete,84,84
+AXON,"AXON ENTERPRISE, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",SEC SIC,79.2,Partial,95,120
+BKNG,Booking Holdings Inc.,4700,Transportation Services,SEC SIC,75.0,Partial,63,84
+BKR,Baker Hughes Co,3533,Oil & Gas Field Machinery & Equipment,SEC SIC,84.5,Partial,71,84
+CDNS,CADENCE DESIGN SYSTEMS INC,7372,Services-Prepackaged Software,SEC SIC,83.3,Partial,70,84
+CMCSA,COMCAST CORP,4841,Cable & Other Pay Television Services,SEC SIC,75.0,Partial,63,84
+CPRT,COPART INC,5500,Retail-Auto Dealers & Gasoline Stations,SEC SIC,84.5,Partial,71,84
+CRWD,"CrowdStrike Holdings, Inc.",7372,Services-Prepackaged Software,SEC SIC,83.3,Partial,80,96
+CSCO,"CISCO SYSTEMS, INC.",3576,Computer Communications Equipment,SEC SIC,100.0,Complete,84,84
+CTAS,CINTAS CORP,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",SEC SIC,100.0,Complete,84,84
+DDOG,"Datadog, Inc.",7372,Services-Prepackaged Software,SEC SIC,100.0,Complete,84,84
+DLTR,"DOLLAR TREE, INC.",5331,Retail-Variety Stores,SEC SIC,93.8,Complete,90,96
+DXCM,DEXCOM INC,3841,Surgical & Medical Instruments & Apparatus,SEC SIC,95.2,Complete,80,84
+EA,ELECTRONIC ARTS INC.,7372,Services-Prepackaged Software,SEC SIC,100.0,Complete,96,96
+EXC,EXELON CORP,4931,Electric & Other Services Combined,SEC SIC,83.3,Partial,70,84
+FANG,"Diamondback Energy, Inc.",1311,Crude Petroleum & Natural Gas,SEC SIC,91.7,Complete,77,84
+FAST,FASTENAL CO,5200,"Retail-Building Materials, Hardware, Garden Supply",SEC SIC,100.0,Complete,84,84
+FTNT,"Fortinet, Inc.",3577,"Computer Peripheral Equipment, NEC",SEC SIC,100.0,Complete,84,84
+GEV,GE Vernova Inc.,3600,Electronic & Other Electrical Equipment (No Computer Equip),SEC SIC,79.2,Partial,38,48
+GILD,"GILEAD SCIENCES, INC.",2836,"Biological Products, (No Diagnostic Substances)",SEC SIC,100.0,Complete,84,84
+GOOG,Alphabet Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",SEC SIC,96.4,Complete,81,84
+GOOGL,Alphabet Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",SEC SIC,96.4,Complete,81,84
+HON,HONEYWELL INTERNATIONAL INC,3724,Aircraft Engines & Engine Parts,SEC SIC,96.4,Complete,81,84
+IDXX,IDEXX LABORATORIES INC /DE,2835,In Vitro & In Vivo Diagnostic Substances,SEC SIC,91.7,Complete,88,96
+ILMN,"ILLUMINA, INC.",3826,Laboratory Analytical Instruments,SEC SIC,83.3,Partial,80,96
+INTC,INTEL CORP,3674,Semiconductors & Related Devices,SEC SIC,96.4,Complete,81,84
+INTU,INTUIT INC.,7372,Services-Prepackaged Software,SEC SIC,91.7,Complete,77,84
+ISRG,INTUITIVE SURGICAL INC,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",SEC SIC,100.0,Complete,84,84
+KDP,Keurig Dr Pepper Inc.,2080,Beverages,SEC SIC,100.0,Complete,84,84
+KHC,"ticker
+KHC    Kraft Heinz Co
+KHC    Kraft Heinz Co
+Name: Company_Name, dtype: object","ticker
+KHC    2030
+KHC    2030
+Name: SIC, dtype: object","ticker
+KHC    Canned, Frozen & Preservd Fruit, Veg & Food Sp...
+KHC    Canned, Frozen & Preservd Fruit, Veg & Food Sp...
+Name: Industry, dtype: object","ticker
+KHC    SEC SIC
+KHC    SEC SIC
+Name: Industry_Source, dtype: object",84.5,Partial,142,168
+KLAC,KLA CORP,3827,Optical Instruments & Lenses,SEC SIC,100.0,Complete,84,84
+LRCX,LAM RESEARCH CORP,3559,"Special Industry Machinery, NEC",SEC SIC,100.0,Complete,84,84
+LULU,lululemon athletica inc.,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,SEC SIC,100.0,Complete,96,96
+MAR,MARRIOTT INTERNATIONAL INC /MD/,7011,Hotels & Motels,SEC SIC,91.7,Complete,77,84
+MCHP,MICROCHIP TECHNOLOGY INC,3674,Semiconductors & Related Devices,SEC SIC,100.0,Complete,96,96
+MDB,"MongoDB, Inc.",7372,Services-Prepackaged Software,SEC SIC,99.0,Complete,95,96
+MDLZ,"Mondelez International, Inc.",2000,Food and Kindred Products,SEC SIC,91.7,Complete,77,84
+MELI,MERCADOLIBRE INC,7389,"Services-Business Services, NEC",SEC SIC,100.0,Complete,84,84
+META,"Meta Platforms, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",SEC SIC,91.7,Complete,77,84
+MNST,Monster Beverage Corp,2086,Bottled & Canned Soft Drinks & Carbonated Waters,SEC SIC,84.5,Partial,71,84
+MRVL,"Marvell Technology, Inc.",3674,Semiconductors & Related Devices,SEC SIC,90.5,Complete,76,84
+MU,MICRON TECHNOLOGY INC,3674,Semiconductors & Related Devices,SEC SIC,92.9,Complete,78,84
+NFLX,NETFLIX INC,7841,Services-Video Tape Rental,SEC SIC,91.7,Complete,77,84
+NVDA,NVIDIA CORP,3674,Semiconductors & Related Devices,SEC SIC,100.0,Complete,96,96
+NXPI,NXP Semiconductors N.V.,3674,Semiconductors & Related Devices,SEC SIC,100.0,Complete,84,84
+ODFL,"OLD DOMINION FREIGHT LINE, INC.",4213,Trucking (No Local),SEC SIC,71.9,Partial,69,96
+ON,ON SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices,SEC SIC,100.0,Complete,84,84
+ORLY,O REILLY AUTOMOTIVE INC,5531,Retail-Auto & Home Supply Stores,SEC SIC,100.0,Complete,84,84
+PANW,Palo Alto Networks Inc,3577,"Computer Peripheral Equipment, NEC",SEC SIC,100.0,Complete,84,84
+PAYX,PAYCHEX INC,8700,"Services-Engineering, Accounting, Research, Management",SEC SIC,96.9,Complete,93,96
+PCAR,PACCAR INC,3711,Motor Vehicles & Passenger Car Bodies,SEC SIC,59.5,Partial,50,84
+PEP,PEPSICO INC,2080,Beverages,SEC SIC,100.0,Complete,84,84
+PYPL,"PayPal Holdings, Inc.",7389,"Services-Business Services, NEC",SEC SIC,91.7,Complete,77,84
+QCOM,QUALCOMM INC/DE,3663,Radio & Tv Broadcasting & Communications Equipment,SEC SIC,100.0,Complete,84,84
+REGN,"REGENERON PHARMACEUTICALS, INC.",2834,Pharmaceutical Preparations,SEC SIC,85.7,Partial,72,84
+ROST,"ROSS STORES, INC.",5651,Retail-Family Clothing Stores,SEC SIC,100.0,Complete,96,96
+SIRI,SIRIUS XM HOLDINGS INC.,4832,Radio Broadcasting Stations,SEC SIC,100.0,Complete,84,84
+SNPS,SYNOPSYS INC,7372,Services-Prepackaged Software,SEC SIC,100.0,Complete,84,84
+SWKS,"SKYWORKS SOLUTIONS, INC.",3674,Semiconductors & Related Devices,SEC SIC,100.0,Complete,84,84
+TMUS,"T-Mobile US, Inc.",4812,Radiotelephone Communications,SEC SIC,81.2,Partial,78,96
+TSLA,"Tesla, Inc.",3711,Motor Vehicles & Passenger Car Bodies,SEC SIC,87.5,Partial,84,96
+TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,7372,Services-Prepackaged Software,SEC SIC,100.0,Complete,96,96
+TXN,TEXAS INSTRUMENTS INC,3674,Semiconductors & Related Devices,SEC SIC,100.0,Complete,84,84
+VRSK,"Verisk Analytics, Inc.",7374,Services-Computer Processing & Data Preparation,SEC SIC,97.6,Complete,82,84
+VRTX,VERTEX PHARMACEUTICALS INC / MA,2834,Pharmaceutical Preparations,SEC SIC,82.3,Partial,79,96
+WBD,"Warner Bros. Discovery, Inc.",4841,Cable & Other Pay Television Services,SEC SIC,91.7,Complete,77,84
+WDAY,"Workday, Inc.",7374,Services-Computer Processing & Data Preparation,SEC SIC,91.7,Complete,88,96
+WMT,Walmart Inc.,5331,Retail-Variety Stores,SEC SIC,100.0,Complete,96,96
+ZS,"Zscaler, Inc.",7371,Services-Computer Programming Services,SEC SIC,91.7,Complete,77,84

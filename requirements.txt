@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+requests
+yfinance
+urllib3

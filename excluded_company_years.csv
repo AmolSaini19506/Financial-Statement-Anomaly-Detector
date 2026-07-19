@@ -1,0 +1,214 @@
+ticker,fiscal_end,reason
+ABNB,2020-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets, PPE, TotalAssets"
+ABNB,2021-12-31,missing SEC facts even for 5-variable fallback: Receivables
+ABNB,2022-12-31,missing SEC facts even for 5-variable fallback: Receivables
+ABNB,2023-12-31,missing SEC facts even for 5-variable fallback: Receivables
+ABNB,2024-12-31,missing SEC facts even for 5-variable fallback: Receivables
+ABNB,2025-12-31,missing SEC facts even for 5-variable fallback: Receivables
+AEP,2020-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+AEP,2021-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+AEP,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+AEP,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+AEP,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+AEP,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+ALAB,2023-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets, PPE, TotalAssets"
+AMZN,2020-12-31,missing SEC facts even for 5-variable fallback: PPE
+AMZN,2021-12-31,missing SEC facts even for 5-variable fallback: PPE
+AMZN,2022-12-31,missing SEC facts even for 5-variable fallback: PPE
+AMZN,2023-12-31,missing SEC facts even for 5-variable fallback: PPE
+AMZN,2024-12-31,missing SEC facts even for 5-variable fallback: PPE
+APP,2020-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets, PPE, TotalAssets"
+APP,2021-12-31,missing SEC facts even for 5-variable fallback: PPE
+APP,2022-12-31,missing SEC facts even for 5-variable fallback: PPE
+APP,2023-12-31,missing SEC facts even for 5-variable fallback: PPE
+APP,2024-12-31,missing SEC facts even for 5-variable fallback: PPE
+APP,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+AXON,2024-03-31,prior annual period is 91 days earlier
+AXON,2024-09-30,prior annual period is 183 days earlier
+AXON,2024-12-31,prior annual period is 92 days earlier
+BKNG,2020-12-31,"missing SEC facts even for 5-variable fallback: Receivables, NetIncome, CostOfRevenue"
+BKNG,2021-12-31,"missing SEC facts even for 5-variable fallback: Receivables, NetIncome, CostOfRevenue"
+BKNG,2022-12-31,"missing SEC facts even for 5-variable fallback: Receivables, NetIncome, CostOfRevenue"
+BKNG,2023-12-31,"missing SEC facts even for 5-variable fallback: Receivables, NetIncome, CostOfRevenue"
+BKNG,2024-12-31,"missing SEC facts even for 5-variable fallback: Receivables, NetIncome, CostOfRevenue"
+BKNG,2025-12-31,"missing SEC facts even for 5-variable fallback: Receivables, NetIncome, CostOfRevenue"
+BKR,2020-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+BKR,2021-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+BKR,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+BKR,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+BKR,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+BKR,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CDNS,2021-01-02,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CDNS,2022-01-01,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CDNS,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CDNS,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CDNS,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CDNS,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CMCSA,2020-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CMCSA,2021-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CMCSA,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CMCSA,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CMCSA,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CMCSA,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+CPRT,2020-07-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+CPRT,2021-07-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+CPRT,2022-07-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+CPRT,2023-07-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+CPRT,2024-07-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+CPRT,2025-07-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+CRWD,2020-01-31,"missing SEC facts even for 5-variable fallback: Revenues, Depreciation"
+CRWD,2021-01-31,"missing SEC facts even for 5-variable fallback: Revenues, Depreciation"
+CRWD,2022-01-31,"missing SEC facts even for 5-variable fallback: Revenues, Depreciation"
+CRWD,2023-01-31,"missing SEC facts even for 5-variable fallback: Revenues, Depreciation"
+CRWD,2024-01-31,"missing SEC facts even for 5-variable fallback: Revenues, Depreciation"
+CRWD,2025-01-31,"missing SEC facts even for 5-variable fallback: Revenues, Depreciation"
+CRWD,2026-01-31,"missing SEC facts even for 5-variable fallback: Revenues, Depreciation"
+DLTR,2021-01-30,missing SEC facts even for 5-variable fallback: Receivables
+DLTR,2022-01-29,missing SEC facts even for 5-variable fallback: Receivables
+DLTR,2023-01-28,missing SEC facts even for 5-variable fallback: Receivables
+DLTR,2024-02-03,missing SEC facts even for 5-variable fallback: Receivables
+DLTR,2025-02-01,missing SEC facts even for 5-variable fallback: Receivables
+DLTR,2026-01-31,missing SEC facts even for 5-variable fallback: Receivables
+DXCM,2022-12-31,missing SEC facts even for 5-variable fallback: PPE
+DXCM,2023-12-31,missing SEC facts even for 5-variable fallback: PPE
+DXCM,2024-12-31,missing SEC facts even for 5-variable fallback: PPE
+DXCM,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+EXC,2020-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+EXC,2021-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+EXC,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+EXC,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+EXC,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+EXC,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+FANG,2020-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+FANG,2021-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+FANG,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+FANG,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+FANG,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+FANG,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+GEV,2023-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets, PPE, TotalAssets"
+GEV,2024-12-31,"missing SEC facts even for 5-variable fallback: Receivables, PPE"
+GEV,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+GOOG,2020-12-31,missing SEC facts even for 5-variable fallback: Depreciation
+GOOG,2021-12-31,missing SEC facts even for 5-variable fallback: Depreciation
+GOOG,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+GOOGL,2020-12-31,missing SEC facts even for 5-variable fallback: Depreciation
+GOOGL,2021-12-31,missing SEC facts even for 5-variable fallback: Depreciation
+GOOGL,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+HON,2023-12-31,missing SEC facts even for 5-variable fallback: PPE
+HON,2024-12-31,missing SEC facts even for 5-variable fallback: PPE
+HON,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+INTC,2023-12-30,missing SEC facts even for 5-variable fallback: PPE
+INTC,2024-12-28,missing SEC facts even for 5-variable fallback: PPE
+INTC,2025-12-27,missing SEC facts even for 5-variable fallback: PPE
+INTU,2020-07-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+INTU,2021-07-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+INTU,2022-07-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+INTU,2023-07-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+INTU,2024-07-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+INTU,2025-07-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+KHC,2020-12-26,"missing SEC facts even for 5-variable fallback: Revenues, PPE"
+KHC,2020-12-26,prior annual period is 0 days earlier
+KHC,2021-12-25,"missing SEC facts even for 5-variable fallback: Revenues, PPE"
+KHC,2021-12-25,prior annual period is 0 days earlier
+KHC,2022-12-31,"missing SEC facts even for 5-variable fallback: Revenues, PPE"
+KHC,2022-12-31,prior annual period is 0 days earlier
+KHC,2023-12-30,"missing SEC facts even for 5-variable fallback: Revenues, PPE"
+KHC,2023-12-30,prior annual period is 0 days earlier
+KHC,2024-12-28,"missing SEC facts even for 5-variable fallback: Revenues, PPE"
+KHC,2024-12-28,prior annual period is 0 days earlier
+KHC,2025-12-27,"missing SEC facts even for 5-variable fallback: Revenues, PPE"
+KHC,2025-12-27,prior annual period is 0 days earlier
+MAR,2020-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+MAR,2021-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+MAR,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+MAR,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+MAR,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+MAR,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+MDB,2026-01-31,missing SEC facts even for 5-variable fallback: PPE
+MDLZ,2020-12-31,missing SEC facts even for 5-variable fallback: PPE
+MDLZ,2021-12-31,missing SEC facts even for 5-variable fallback: PPE
+MDLZ,2022-12-31,missing SEC facts even for 5-variable fallback: PPE
+MDLZ,2023-12-31,missing SEC facts even for 5-variable fallback: PPE
+MDLZ,2024-12-31,missing SEC facts even for 5-variable fallback: PPE
+MDLZ,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+META,2020-12-31,missing SEC facts even for 5-variable fallback: PPE
+META,2021-12-31,missing SEC facts even for 5-variable fallback: PPE
+META,2022-12-31,missing SEC facts even for 5-variable fallback: PPE
+META,2023-12-31,missing SEC facts even for 5-variable fallback: PPE
+META,2024-12-31,missing SEC facts even for 5-variable fallback: PPE
+META,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+MRVL,2021-01-30,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets, PPE, TotalAssets"
+MU,2020-09-03,missing SEC facts even for 5-variable fallback: PPE
+MU,2021-09-02,missing SEC facts even for 5-variable fallback: PPE
+MU,2022-09-01,missing SEC facts even for 5-variable fallback: PPE
+MU,2023-08-31,missing SEC facts even for 5-variable fallback: PPE
+MU,2024-08-29,missing SEC facts even for 5-variable fallback: PPE
+MU,2025-08-28,missing SEC facts even for 5-variable fallback: PPE
+NFLX,2020-12-31,missing SEC facts even for 5-variable fallback: Receivables
+NFLX,2021-12-31,missing SEC facts even for 5-variable fallback: Receivables
+NFLX,2022-12-31,missing SEC facts even for 5-variable fallback: Receivables
+NFLX,2023-12-31,missing SEC facts even for 5-variable fallback: Receivables
+NFLX,2024-12-31,missing SEC facts even for 5-variable fallback: Receivables
+NFLX,2025-12-31,missing SEC facts even for 5-variable fallback: Receivables
+ODFL,2020-12-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+ODFL,2021-12-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+ODFL,2022-12-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+ODFL,2023-12-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+ODFL,2024-12-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+ODFL,2025-12-31,"missing SEC facts even for 5-variable fallback: Revenues, CostOfRevenue"
+PAYX,2020-05-31,missing SEC facts even for 5-variable fallback: NetIncome
+PAYX,2021-05-31,missing SEC facts even for 5-variable fallback: NetIncome
+PCAR,2020-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets, CostOfRevenue"
+PCAR,2021-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets, CostOfRevenue"
+PCAR,2022-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets, CostOfRevenue"
+PCAR,2023-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets"
+PCAR,2024-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets"
+PCAR,2025-12-31,"missing SEC facts even for 5-variable fallback: Receivables, CurrentAssets"
+PYPL,2020-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+PYPL,2021-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+PYPL,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+PYPL,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+PYPL,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+PYPL,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+REGN,2020-12-31,"missing SEC facts even for 5-variable fallback: PPE, CostOfRevenue"
+REGN,2021-12-31,"missing SEC facts even for 5-variable fallback: PPE, CostOfRevenue"
+REGN,2022-12-31,"missing SEC facts even for 5-variable fallback: PPE, CostOfRevenue"
+REGN,2023-12-31,"missing SEC facts even for 5-variable fallback: PPE, CostOfRevenue"
+REGN,2024-12-31,"missing SEC facts even for 5-variable fallback: PPE, CostOfRevenue"
+REGN,2025-12-31,"missing SEC facts even for 5-variable fallback: PPE, CostOfRevenue"
+TMUS,2020-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+TMUS,2021-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+TMUS,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+TMUS,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+TMUS,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+TMUS,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+TSLA,2021-01-01,prior annual period is 1 days earlier
+TSLA,2021-12-31,"missing SEC facts even for 5-variable fallback: Revenues, Receivables, CurrentAssets, TotalAssets, CostOfRevenue, Depreciation"
+TSLA,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+VRSK,2024-12-31,missing SEC facts even for 5-variable fallback: PPE
+VRSK,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+VRTX,2020-12-31,missing SEC facts even for 5-variable fallback: PPE
+VRTX,2021-12-31,missing SEC facts even for 5-variable fallback: PPE
+VRTX,2022-12-31,missing SEC facts even for 5-variable fallback: PPE
+VRTX,2023-12-31,missing SEC facts even for 5-variable fallback: PPE
+VRTX,2024-12-31,missing SEC facts even for 5-variable fallback: PPE
+VRTX,2025-12-31,missing SEC facts even for 5-variable fallback: PPE
+WBD,2020-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WBD,2021-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WBD,2022-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WBD,2023-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WBD,2024-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WBD,2025-12-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WDAY,2020-01-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WDAY,2021-01-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WDAY,2022-01-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WDAY,2023-01-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WDAY,2024-01-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WDAY,2025-01-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+WDAY,2026-01-31,missing SEC facts even for 5-variable fallback: CostOfRevenue
+ZS,2020-07-31,missing SEC facts even for 5-variable fallback: Depreciation
+ZS,2021-07-31,missing SEC facts even for 5-variable fallback: Depreciation
+ZS,2022-07-31,missing SEC facts even for 5-variable fallback: Depreciation
+ZS,2023-07-31,missing SEC facts even for 5-variable fallback: Depreciation
+ZS,2024-07-31,missing SEC facts even for 5-variable fallback: Depreciation
+ZS,2025-07-31,missing SEC facts even for 5-variable fallback: Depreciation

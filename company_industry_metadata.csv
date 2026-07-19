@@ -1,0 +1,93 @@
+ticker,Company_Name,SIC,Industry,Industry_Source
+ADBE,ADOBE INC.,7372,Services-Prepackaged Software,SEC SIC
+AMD,ADVANCED MICRO DEVICES INC,3674,Semiconductors & Related Devices,SEC SIC
+ABNB,"Airbnb, Inc.",7340,Services-To Dwellings & Other Buildings,SEC SIC
+ALNY,"ALNYLAM PHARMACEUTICALS, INC.",2834,Pharmaceutical Preparations,SEC SIC
+GOOGL,Alphabet Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",SEC SIC
+GOOG,Alphabet Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",SEC SIC
+AMZN,AMAZON COM INC,5961,Retail-Catalog & Mail-Order Houses,SEC SIC
+AEP,AMERICAN ELECTRIC POWER CO INC,4911,Electric Services,SEC SIC
+AMGN,AMGEN INC,2836,"Biological Products, (No Diagnostic Substances)",SEC SIC
+ADI,ANALOG DEVICES INC,3674,Semiconductors & Related Devices,SEC SIC
+AAPL,Apple Inc.,3571,Electronic Computers,SEC SIC
+AMAT,APPLIED MATERIALS INC /DE,3674,Semiconductors & Related Devices,SEC SIC
+APP,AppLovin Corp,7370,"Services-Computer Programming, Data Processing, Etc.",SEC SIC
+ARM,ARM HOLDINGS PLC /UK,3674,Semiconductors & Related Devices,SEC SIC
+ASML,ASML HOLDING NV,3559,"Special Industry Machinery, NEC",SEC SIC
+ALAB,"Astera Labs, Inc.",3674,Semiconductors & Related Devices,SEC SIC
+ADSK,"Autodesk, Inc.",7372,Services-Prepackaged Software,SEC SIC
+ADP,AUTOMATIC DATA PROCESSING INC,7374,Services-Computer Processing & Data Preparation,SEC SIC
+AXON,"AXON ENTERPRISE, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",SEC SIC
+BKR,Baker Hughes Co,3533,Oil & Gas Field Machinery & Equipment,SEC SIC
+BKNG,Booking Holdings Inc.,4700,Transportation Services,SEC SIC
+AVGO,Broadcom Inc.,3674,Semiconductors & Related Devices,SEC SIC
+CDNS,CADENCE DESIGN SYSTEMS INC,7372,Services-Prepackaged Software,SEC SIC
+CTAS,CINTAS CORP,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",SEC SIC
+CSCO,"CISCO SYSTEMS, INC.",3576,Computer Communications Equipment,SEC SIC
+CCEP,COCA-COLA EUROPACIFIC PARTNERS plc,2086,Bottled & Canned Soft Drinks & Carbonated Waters,SEC SIC
+CMCSA,COMCAST CORP,4841,Cable & Other Pay Television Services,SEC SIC
+CPRT,COPART INC,5500,Retail-Auto Dealers & Gasoline Stations,SEC SIC
+CRWD,"CrowdStrike Holdings, Inc.",7372,Services-Prepackaged Software,SEC SIC
+DDOG,"Datadog, Inc.",7372,Services-Prepackaged Software,SEC SIC
+DXCM,DEXCOM INC,3841,Surgical & Medical Instruments & Apparatus,SEC SIC
+DLTR,"DOLLAR TREE, INC.",5331,Retail-Variety Stores,SEC SIC
+EA,ELECTRONIC ARTS INC.,7372,Services-Prepackaged Software,SEC SIC
+EXC,EXELON CORP,4931,Electric & Other Services Combined,SEC SIC
+FANG,"Diamondback Energy, Inc.",1311,Crude Petroleum & Natural Gas,SEC SIC
+FAST,FASTENAL CO,5200,"Retail-Building Materials, Hardware, Garden Supply",SEC SIC
+FTNT,"Fortinet, Inc.",3577,"Computer Peripheral Equipment, NEC",SEC SIC
+GEV,GE Vernova Inc.,3600,Electronic & Other Electrical Equipment (No Computer Equip),SEC SIC
+GILD,"GILEAD SCIENCES, INC.",2836,"Biological Products, (No Diagnostic Substances)",SEC SIC
+HON,HONEYWELL INTERNATIONAL INC,3724,Aircraft Engines & Engine Parts,SEC SIC
+IDXX,IDEXX LABORATORIES INC /DE,2835,In Vitro & In Vivo Diagnostic Substances,SEC SIC
+ILMN,"ILLUMINA, INC.",3826,Laboratory Analytical Instruments,SEC SIC
+INTC,INTEL CORP,3674,Semiconductors & Related Devices,SEC SIC
+INTU,INTUIT INC.,7372,Services-Prepackaged Software,SEC SIC
+ISRG,INTUITIVE SURGICAL INC,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",SEC SIC
+KDP,Keurig Dr Pepper Inc.,2080,Beverages,SEC SIC
+KLAC,KLA CORP,3827,Optical Instruments & Lenses,SEC SIC
+KHC,Kraft Heinz Co,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",SEC SIC
+LRCX,LAM RESEARCH CORP,3559,"Special Industry Machinery, NEC",SEC SIC
+LULU,lululemon athletica inc.,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,SEC SIC
+MAR,MARRIOTT INTERNATIONAL INC /MD/,7011,Hotels & Motels,SEC SIC
+MRVL,"Marvell Technology, Inc.",3674,Semiconductors & Related Devices,SEC SIC
+MELI,MERCADOLIBRE INC,7389,"Services-Business Services, NEC",SEC SIC
+META,"Meta Platforms, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",SEC SIC
+MCHP,MICROCHIP TECHNOLOGY INC,3674,Semiconductors & Related Devices,SEC SIC
+MU,MICRON TECHNOLOGY INC,3674,Semiconductors & Related Devices,SEC SIC
+MDLZ,"Mondelez International, Inc.",2000,Food and Kindred Products,SEC SIC
+MDB,"MongoDB, Inc.",7372,Services-Prepackaged Software,SEC SIC
+MNST,Monster Beverage Corp,2086,Bottled & Canned Soft Drinks & Carbonated Waters,SEC SIC
+NFLX,NETFLIX INC,7841,Services-Video Tape Rental,SEC SIC
+NVDA,NVIDIA CORP,3674,Semiconductors & Related Devices,SEC SIC
+NXPI,NXP Semiconductors N.V.,3674,Semiconductors & Related Devices,SEC SIC
+ODFL,"OLD DOMINION FREIGHT LINE, INC.",4213,Trucking (No Local),SEC SIC
+ON,ON SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices,SEC SIC
+ORLY,O REILLY AUTOMOTIVE INC,5531,Retail-Auto & Home Supply Stores,SEC SIC
+PCAR,PACCAR INC,3711,Motor Vehicles & Passenger Car Bodies,SEC SIC
+PANW,Palo Alto Networks Inc,3577,"Computer Peripheral Equipment, NEC",SEC SIC
+PAYX,PAYCHEX INC,8700,"Services-Engineering, Accounting, Research, Management",SEC SIC
+PYPL,"PayPal Holdings, Inc.",7389,"Services-Business Services, NEC",SEC SIC
+PEP,PEPSICO INC,2080,Beverages,SEC SIC
+PDD,PDD Holdings Inc.,7389,"Services-Business Services, NEC",SEC SIC
+QCOM,QUALCOMM INC/DE,3663,Radio & Tv Broadcasting & Communications Equipment,SEC SIC
+REGN,"REGENERON PHARMACEUTICALS, INC.",2834,Pharmaceutical Preparations,SEC SIC
+ROST,"ROSS STORES, INC.",5651,Retail-Family Clothing Stores,SEC SIC
+SGEN,SGEN,,Unknown,fallback
+SIRI,SIRIUS XM HOLDINGS INC.,4832,Radio Broadcasting Stations,SEC SIC
+SNPS,SYNOPSYS INC,7372,Services-Prepackaged Software,SEC SIC
+SPLK,SPLK,,Cloud Software,fallback
+SWKS,"SKYWORKS SOLUTIONS, INC.",3674,Semiconductors & Related Devices,SEC SIC
+TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,7372,Services-Prepackaged Software,SEC SIC
+TMUS,"T-Mobile US, Inc.",4812,Radiotelephone Communications,SEC SIC
+TSLA,"Tesla, Inc.",3711,Motor Vehicles & Passenger Car Bodies,SEC SIC
+TXN,TEXAS INSTRUMENTS INC,3674,Semiconductors & Related Devices,SEC SIC
+KHC,Kraft Heinz Co,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",SEC SIC
+TCOM,Trip.com Group Ltd,7389,"Services-Business Services, NEC",SEC SIC
+VRSK,"Verisk Analytics, Inc.",7374,Services-Computer Processing & Data Preparation,SEC SIC
+VRTX,VERTEX PHARMACEUTICALS INC / MA,2834,Pharmaceutical Preparations,SEC SIC
+WBA,WBA,,Retail,fallback
+WBD,"Warner Bros. Discovery, Inc.",4841,Cable & Other Pay Television Services,SEC SIC
+WDAY,"Workday, Inc.",7374,Services-Computer Processing & Data Preparation,SEC SIC
+WMT,Walmart Inc.,5331,Retail-Variety Stores,SEC SIC
+ZS,"Zscaler, Inc.",7371,Services-Computer Programming Services,SEC SIC
