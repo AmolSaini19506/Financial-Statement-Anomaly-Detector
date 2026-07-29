@@ -2,11 +2,14 @@
 
 ## About
 
-This project analyzes the earnings quality of companies using financial data from the SEC Company Facts API.
+This project analyzes the earnings quality of companies using financial data from the SEC Company Facts API. It calculates the Beneish M-Score and Sloan Accrual Ratio to identify companies that may have a higher risk of earnings manipulation, then benchmarks how flagged vs. unflagged companies performed afterward.
 
-It calculates the Beneish M-Score and Sloan Accrual Ratio to identify companies that may have a higher risk of earnings manipulation.
+## Results Summary
 
-The project also compares future stock returns and generates reports.
+- Coverage: 20 companies with scoreable observations (recovered from an initial 8 via derived-field recovery, extended SEC XBRL tag fallbacks, and a 5-variable Beneish fallback model)
+- Beneish M-Score (5-variable fallback): `-6.065 + 0.823*DSRI + 0.906*GMI + 0.593*AQI + 0.717*SGI + 0.107*DEPI`
+- Forward return comparison available in `forward_return_comparison.png` for flagged vs. unflagged companies over 6- and 12-month horizons
+- Full flagged/excluded observations broken out in `flagged_observations.csv` and `excluded_company_years.csv`
 
 ## Features
 
@@ -41,10 +44,10 @@ The project also compares future stock returns and generates reports.
 pip install -r requirements.txt
 ```
 
-2. Run the Python file.
+2. Run the script.
 
 ```bash
-python Final_Project_FS.py
+python financial_statement_anomaly_detector.py
 ```
 
 ## Output
