@@ -1,0 +1,16 @@
+# Generated outputs
+*.csv
+*.png
+*.html
+
+# Keep these tracked exceptions
+!company_industry_metadata.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
